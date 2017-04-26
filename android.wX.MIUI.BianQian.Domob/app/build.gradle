@@ -20,4 +20,5 @@ android {
 
 dependencies {
     compile files('libs/domob_android_sdk.jar')
+    compile 'com.android.support:support-v4:25.3.0'
 }

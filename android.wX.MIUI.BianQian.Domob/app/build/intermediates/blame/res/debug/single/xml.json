@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/xml/searchable.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/xml/widget_4x_info.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/xml/widget_4x_info.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/xml/widget_2x_info.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/xml/widget_2x_info.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/xml/preferences.xml"
+    }
+]

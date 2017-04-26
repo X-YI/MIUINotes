@@ -1,0 +1,25 @@
+#Thu Apr 27 00:22:07 CST 2017
+renamed.7=classes4.dex
+renamed.6=classes.dex
+renamed.5=classes3.dex
+renamed.4=classes6.dex
+renamed.3=classes5.dex
+renamed.2=classes7.dex
+renamed.1=classes8.dex
+renamed.0=classes2.dex
+base.7=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74008c2898b06027f9358a7763d70a3bb2dfa8f1
+base.6=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19dc3b2c78423a66847167cc7095662d2adbee4b
+base.5=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ef26f213b05b9dccac47d9b9d42e8c1bd0e9910
+base.4=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9aa8813b244ab5e90997469b6e13bb73adc1ce1
+base.3=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9bbaa04fb0e21ee210c6e679e2329760c005bf25
+base.2=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_e0437ca35d97e48bfb83ce366974c75d846c5c46
+base.1=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/2/domob_android_sdk_f4a64112c2e89b4080c0852e3c2228620a1dd6f2
+base.0=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6103bf9fabb8ee227c1311cdf6e87bd26076c2e0
+file.7=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74008c2898b06027f9358a7763d70a3bb2dfa8f1/classes.dex
+file.6=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19dc3b2c78423a66847167cc7095662d2adbee4b/classes.dex
+file.5=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ef26f213b05b9dccac47d9b9d42e8c1bd0e9910/classes.dex
+file.4=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9aa8813b244ab5e90997469b6e13bb73adc1ce1/classes.dex
+file.3=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9bbaa04fb0e21ee210c6e679e2329760c005bf25/classes.dex
+file.2=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_e0437ca35d97e48bfb83ce366974c75d846c5c46/classes.dex
+file.1=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/2/domob_android_sdk_f4a64112c2e89b4080c0852e3c2228620a1dd6f2/classes.dex
+file.0=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6103bf9fabb8ee227c1311cdf6e87bd26076c2e0/classes.dex

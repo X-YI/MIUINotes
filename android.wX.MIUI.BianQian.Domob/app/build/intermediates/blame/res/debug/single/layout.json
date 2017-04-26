@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/layout/note_list.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/layout/note_list.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/layout/folder_list_item.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/layout/folder_list_item.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/layout/note_edit_list_item.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/layout/note_edit_list_item.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/layout/dialog_edit_text.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/layout/dialog_edit_text.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/layout/datetime_picker.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/layout/datetime_picker.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/layout/account_dialog_title.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/layout/account_dialog_title.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/layout/settings_header.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/layout/settings_header.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/layout/note_list_footer.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/layout/note_list_footer.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/layout/note_item.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/layout/note_item.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/layout/widget_2x.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/layout/widget_2x.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/layout/note_edit.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/layout/note_edit.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/layout/widget_4x.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/layout/widget_4x.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/layout/note_list_dropdown_menu.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/layout/note_list_dropdown_menu.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/layout/add_account_text.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/layout/add_account_text.xml"
+    }
+]

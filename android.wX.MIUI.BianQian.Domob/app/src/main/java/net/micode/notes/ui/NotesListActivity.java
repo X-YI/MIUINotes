@@ -16,7 +16,6 @@
 
 package net.micode.notes.ui;
 
-import Android.wX.MIUI.BianQian.Domob.R;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -32,6 +31,7 @@ import android.database.Cursor;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
+import android.support.v4.app.FragmentActivity;
 import android.text.Editable;
 import android.text.TextUtils;
 import android.text.TextWatcher;
@@ -70,6 +70,7 @@ import net.micode.notes.tool.BackupUtils;
 import net.micode.notes.tool.DataUtils;
 import net.micode.notes.tool.ResourceParser;
 import net.micode.notes.ui.NotesListAdapter.AppWidgetAttribute;
+import net.micode.notes.update.UpdateChecker;
 import net.micode.notes.widget.NoteWidgetProvider_2x;
 import net.micode.notes.widget.NoteWidgetProvider_4x;
 
@@ -79,11 +80,12 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.HashSet;
 
+import Android.wX.MIUI.BianQian.Domob.R;
 import cn.domob.android.ads.DomobAdEventListener;
-import cn.domob.android.ads.DomobAdView;
 import cn.domob.android.ads.DomobAdManager.ErrorCode;
+import cn.domob.android.ads.DomobAdView;
 
-public class NotesListActivity extends Activity implements OnClickListener, OnItemLongClickListener {
+public class NotesListActivity extends FragmentActivity implements OnClickListener, OnItemLongClickListener {
 	
 
     private static final int FOLDER_NOTE_LIST_QUERY_TOKEN = 0;
@@ -141,6 +143,7 @@ public class NotesListActivity extends Activity implements OnClickListener, OnIt
 
     private final static int REQUEST_CODE_OPEN_NODE = 102;
     private final static int REQUEST_CODE_NEW_NODE  = 103;
+    protected static final String APP_UPDATE_SERVER_URL = "https://s3-ap-northeast-1.amazonaws.com/tmptrans/apks.json";
 
 	public static final String PUBLISHER_ID = "56OJz67YuNZ6JdDIiS";
 	RelativeLayout mAdContainer;
@@ -151,6 +154,7 @@ public class NotesListActivity extends Activity implements OnClickListener, OnIt
         super.onCreate(savedInstanceState);
         setContentView(R.layout.note_list);
         initResources();
+        UpdateChecker.checkForDialog(NotesListActivity.this,APP_UPDATE_SERVER_URL);
 
         
 		mAdContainer = (RelativeLayout) findViewById(R.id.adcontainer);

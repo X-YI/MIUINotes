@@ -1,0 +1,7 @@
+#Thu Apr 27 00:22:07 CST 2017
+base.0=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e505d1c8e06d00aff855774284459c824f27096c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_450286ec350ba7cf8dd3220c62ce1474b1a15690/classes.dex
+base.1=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_450286ec350ba7cf8dd3220c62ce1474b1a15690
+file.0=/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e505d1c8e06d00aff855774284459c824f27096c/classes.dex

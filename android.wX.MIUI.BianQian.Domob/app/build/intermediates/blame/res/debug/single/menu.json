@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/menu/note_list.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/menu/note_list.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/menu/note_list_dropdown.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/menu/note_list_dropdown.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/menu/call_note_edit.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/menu/call_note_edit.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/menu/call_record_folder.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/menu/call_record_folder.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/menu/sub_folder.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/menu/sub_folder.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/menu/note_edit.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/menu/note_edit.xml"
+    },
+    {
+        "merged": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/build/intermediates/res/merged/debug/menu/note_list_options.xml",
+        "source": "/Users/wangxin/projects/AndroidStudioProjects/android.wX.MIUI.BianQian.Domob/app/src/main/res/menu/note_list_options.xml"
+    }
+]
